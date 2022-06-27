@@ -1,0 +1,8 @@
+Desenvolvimento de um jogo da memória para o Bootcamp TQI Fullstack na DIO.
+
+Projeto feito utilizando HTML, CSS e Javascript.
+
+
+
+
+
